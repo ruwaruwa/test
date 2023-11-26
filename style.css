@@ -6,12 +6,12 @@ button{
     padding:20px 50px ;
     /* background-color:red; */
 }
-/* .box-light{
+.box-light{
 
 height: 300px;
 width: 300px;border-radius: 50%;
 border: 2px black solid;
-} */
+}
 
 .box-parent{
     margin-top: 50px;
