@@ -4,7 +4,7 @@
 //     buttom.style.backgroundColor='red';
 //     body.style.backgroundColor='blue'
 //     });
-    
+    ///button fun
 const btnon=document.querySelector('#btnon')
     
 const btnof=document.querySelector('#btnof')
